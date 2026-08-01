@@ -1,8 +1,28 @@
 aid: sonder
 name: Sonder
-description: 'Sonder is a company surfaced as a portfolio company of greylock and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Sonder is a hospitality company that designs, leases, and operates a global
+  portfolio of boutique, design-forward apartment-style accommodations and hotels for
+  short- and extended-stay travelers. Guests book directly through Sonder''s website and
+  mobile app, where a tech-enabled experience spans contactless check-in, in-app service
+  requests, and 24/7 local support across cities in North America, Europe, and the Middle
+  East. In 2024 Sonder entered a long-term licensing agreement with Marriott that lists
+  its properties in the Marriott Bonvoy program. The company is publicly traded and was
+  backed by venture investors including Greylock. Sonder publishes no public developer
+  API; the only machine-facing surface documented here is its responsible security-disclosure
+  program and the site''s domain-security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/sonder/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://assets.sonder.com/assets/www/sonder-green-6cf7bab8f6abbe7ed6740ab2f7628c0d4cc75244ad4e3f7c85d778237465905d.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,10 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Consumer
+- Hospitality
+- Travel
+- Lodging
+- Short-Term Rental
+- Accommodations
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.sonder.com/
+- type: Support
+  url: https://www.sonder.com/help
+- type: Blog
+  url: https://blog.sonder.com
+- type: TermsOfService
+  url: https://www.sonder.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.sonder.com/privacy-policy
+- type: Security
+  url: https://www.sonder.com/security
+- type: VulnerabilityDisclosure
+  url: security/sonder-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/sonder-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
