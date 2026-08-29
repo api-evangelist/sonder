@@ -11,6 +11,17 @@ description: 'Sonder is a hospitality company that designs, leases, and operates
   API; the only machine-facing surface documented here is its responsible security-disclosure
   program and the site''s domain-security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/sonder/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
