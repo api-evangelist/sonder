@@ -50,6 +50,14 @@ tags:
 - Travel
 - Lodging
 - Short-Term Rental
+- Accommodation
+tags_raw:
+- Company
+- Consumer
+- Hospitality
+- Travel
+- Lodging
+- Short-Term Rental
 - Accommodations
 apis: []
 maintainers:
