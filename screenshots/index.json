@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "sonder",
+    "captured_at": "2026-10-11T192855",
+    "source_url": "https://www.sonder.com/",
+    "source_type": "Website",
+    "file": "sonder-2026-10-11T192855.png",
+    "bytes": 476268,
+    "capture": "playwright-local"
+  }
+]
