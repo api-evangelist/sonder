@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sonder is a company surfaced as a portfolio company of greylock and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Sonder is a hospitality company that designs, leases, and operates a global portfolio of boutique, design-forward apartment-style accommodations and hotels for short- and extended-stay travelers. Guests book directly through Sonder's website and mobile app, where a tech-enabled experience spans contactless check-in, in-app service requests, and 24/7 local support across cities in North America, Europe, and the Middle East. In 2024 Sonder entered a long-term licensing agreement with Marriott that lists its properties in the Marriott Bonvoy program. The company is publicly traded and was backed by venture investors including Greylock. Sonder publishes no public developer API; the only machine-facing surface documented here is its responsible security-disclosure program and the site's domain-security posture.
 
-Backed by: greylock — https://www.sonder.com/
+**Areas:** Company · Consumer · Hospitality · Travel · Lodging · Short-Term Rental · Accommodation
+
+## Sonder on APIs.io
+
+Everything profiled for Sonder is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sonder/](https://apis.io/providers/sonder/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sonder Domain Security](https://apis.io/security/sonder/sonder-domain-security/)
+- [Sonder Vulnerability Disclosure](https://apis.io/security/sonder/sonder-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sonder.com/)
+- [Support](https://www.sonder.com/help)
+- [Blog](https://blog.sonder.com)
+- [Security](https://www.sonder.com/security)
+- [Terms of service](https://www.sonder.com/terms-of-service)
+- [Privacy policy](https://www.sonder.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sonder/](https://apis.io/providers/sonder/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sonder: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sonder/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
